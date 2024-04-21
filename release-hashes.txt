@@ -1,0 +1,96 @@
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.0.0.0-kiwi-custom.crx
+SHA-256           : 15ce0b3d360f2605a23eac7a43607e8d38c266becdf5b09163b6da5f2d45b530
+Modified Time     : 12-1-2025 21:35:39
+File Size         : 216.843
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.0.1.0.crx
+SHA-256           : 9f5bedf892a35d09e603d62d8f64dfbb6f725a07dce04167cda43e5fe095a8ec
+Modified Time     : 19-1-2025 21:09:59
+File Size         : 224.557
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-4.0.2.0.crx
+SHA-256           : 4f5b0bebda75c02fc23bedde2d150f1b4fc24ec6e163b0686b02c1fb9401161b
+Modified Time     : 26-1-2025 19:31:11
+File Size         : 226.353
+Extension         : crx
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-chrome-clean-master.zip
+SHA-256           : 98041a114d110eebadb7f59ec0326d7d9c094bdb07d71d8f9ccda3f56fedd2d7
+Modified Time     : 2-2-2025 09:22:59
+File Size         : 236.544
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass-paywalls-firefox-clean-master.zip
+SHA-256           : ac74f552a26e84befa89ff6a198a53c986efe7cf6eac5cd4edf8cd1e671c0ab2
+Modified Time     : 2-2-2025 08:36:53
+File Size         : 233.303
+Extension         : zip
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.1.0-custom.xpi
+SHA-256           : 0ba287376a9fd91a4cd77196e0691b6b62ccc38e7cff67fb8f6edbf5c1a5c71d
+Modified Time     : 19-1-2025 21:18:10
+File Size         : 230.089
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.1.0.xpi
+SHA-256           : 27c0015b798e0dd5e927c966e4aa59afa161ae68dfdc24d3293fee2ba9e46d20
+Modified Time     : 20-1-2025 15:01:12
+File Size         : 235.652
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.2.0-custom.xpi
+SHA-256           : 7ab95009438a58529a983064105083915e191bb17bec2e92720b0b40ec72e8cd
+Modified Time     : 26-1-2025 19:41:12
+File Size         : 232.083
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.2.0.xpi
+SHA-256           : fec4bf0c4eac7d81ddb5a907277abdc8b50ad9ba98a5b7f0ac9fce0218e73803
+Modified Time     : 31-1-2025 11:16:18
+File Size         : 237.644
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.2.4-custom.xpi
+SHA-256           : cb53eb4e550b07a419ff440d0e5999e7da34085926c46a524580271799bdce17
+Modified Time     : 1-2-2025 15:33:26
+File Size         : 233.576
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-4.0.2.4.xpi
+SHA-256           : 9970c4d36c8cefc9efdd406400ff49345b26f86cf66c50e110d66389a2d1678c
+Modified Time     : 1-2-2025 15:25:58
+File Size         : 239.108
+Extension         : xpi
+==================================================
+
+==================================================
+Filename          : bypass_paywalls_clean-latest.xpi
+SHA-256           : 9970c4d36c8cefc9efdd406400ff49345b26f86cf66c50e110d66389a2d1678c
+Modified Time     : 1-2-2025 15:25:58
+File Size         : 239.108
+Extension         : xpi
+==================================================
+
